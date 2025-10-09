@@ -20,11 +20,12 @@ I dislike rewriting chunks of code (*not to be confused with refactoring*) just 
 ### ⚙️ Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,git,postgres,sklearn" />
+    <img src="https://skillicons.dev/icons?i=go,py,fastapi,docker,git,postgres,sklearn" />
   </a>
 </p>  
 
 #### Frameworks & Libraries
+- Gin
 - FastAPI
 - SQLAlchemy
 - Pydantic
@@ -43,7 +44,7 @@ I dislike rewriting chunks of code (*not to be confused with refactoring*) just 
 
 ---
 
-- 🌱 **Currently exploring**: Microservices
+- 🌱 **Currently exploring**: Go
 - 🤝 **Always open** to collaboration and new ideas
 - 💼 **Currently open** to job opportunities.
 - 📫 **How to reach me**: jahongir.hodjaniyazov@gmail.com
