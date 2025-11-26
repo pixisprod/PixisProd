@@ -7,10 +7,10 @@ I love when **everything works 100% as intended**, and I often read *best practi
 
 I enjoy designing **project architecture**.
 Even as a kid, I loved watching how engineers planned physical structures — now I do the same, just not with buildings, but with *systems*.
-That’s exactly why I like **backend development**, especially **FastAPI** — it's *flexible* and doesn’t tie your hands, at least in terms of the architecture I value so much.
+That’s exactly why I like **backend development**, especially **http/net** (was FastAPI) — it's *flexible* and doesn’t tie your hands, at least in terms of the architecture I value so much.
 
-Recently, I’ve also found myself drawn to **ML/AI**. The process is quite different from backend work — and sure, *cleaning data* isn’t the most exciting part —
-but the feeling of victory after hitting a **90%+ accuracy** metric makes it all **worth it**. It’s like watching a *small warrior* — one that quietly goes out, makes decisions, and gets things done.
+**Switched from Python to Go**  
+Recently, I switched from Python to Go, and it feels like I finally aligned my tools with my mindset.
 
 In projects, I care about **scalability** and **code cleanliness**, because they let me focus on what matters without getting lost in repetitive tasks.
 I dislike rewriting chunks of code (*not to be confused with refactoring*) just because something wasn’t well thought out in the beginning — partly because I’m afraid I might **miss something**, and partly because it’s **stressful** and **tedious** to me.
@@ -20,7 +20,7 @@ I dislike rewriting chunks of code (*not to be confused with refactoring*) just 
 ### ⚙️ Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,fastapi,docker,git,postgres,sklearn" />
+    <img src="https://skillicons.dev/icons?i=go,py,fastapi,docker,git,postgres" />
   </a>
 </p>  
 
@@ -28,19 +28,13 @@ I dislike rewriting chunks of code (*not to be confused with refactoring*) just 
 - Gin
 - FastAPI
 - SQLAlchemy
-- Pydantic
-- Pytest
 #### Databases & Caching
 - PostgreSQL
 - Redis
 #### DevOps & Tools
 - Docker
-- Alembic
 - Nginx
 - Git
-#### ML/DS stack 📦
-- Scikit Learn
-- Pandas
 
 ---
 
