@@ -38,6 +38,7 @@ I dislike rewriting chunks of code (*not to be confused with refactoring*) just 
 
 ---
 
+- 🌊 **Currently working on**: Own Go web framework
 - 🌱 **Currently exploring**: Go
 - 🤝 **Always open** to collaboration and new ideas
 - 💼 **Currently open** to job opportunities.
